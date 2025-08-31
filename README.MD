@@ -30,7 +30,7 @@ O script faz o seguinte:
 - .git
 - projeto.txt (arquivo de saída)
 - .DS_Store (arquivos binários do macOS)
-3. Exporta o conteúdo de arquivos de código (HTML, CSS, JS, TS, JSON) com codificação UTF-8, ignorando caracteres inválidos.
+3. Exporta o conteúdo de arquivos de código (exceto pelos listados acima) com codificação UTF-8, ignorando caracteres inválidos.
 4. Salva tudo em um único arquivo chamado projeto.txt.
 
 ---
